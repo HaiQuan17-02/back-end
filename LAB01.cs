@@ -233,4 +233,4 @@ static bool KiemTraNguyenTo(int n)
     }
 
 Nhap();
-/*
+*/
